@@ -8,3 +8,4 @@ print("Hello from git")
 print("Hello from GitHub")
 
 print("From branch1")
+print("This is to solve issue 1")
