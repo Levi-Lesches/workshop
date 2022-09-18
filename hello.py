@@ -6,3 +6,5 @@ print("This is branch2")
 
 print("Hello from git")
 print("Hello from GitHub")
+
+print("From branch1")
